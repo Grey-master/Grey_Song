@@ -1,0 +1,7 @@
+/*открываем media query*/
+@media screen and (orientation: portrait) {
+  .imge img { max-width: 90%; }
+}
+@media screen and (orientation: landscape) {
+  .imge img { max-height: 90%; }
+}
