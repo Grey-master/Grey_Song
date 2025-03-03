@@ -139,7 +139,7 @@ h3 a:hover{
 	display: grid;
 	column-gap: 20px;
 	row-gap: 25px;
-	grid-template-columns: 20px 100px auto;
+	grid-template-columns: 30px 100px auto;
 	grid-template-rows: auto;
 }
 
